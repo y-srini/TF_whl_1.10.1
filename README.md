@@ -1,6 +1,6 @@
 # Repository for Tensorflow 1.10.1
 
-Tensorflow 1.10.1 compiled from source, to support 1080Ti GPU, on Debian 9 Stretch
+Tensorflow 1.10.1 compiled from source, to support NVidia GeForce 1080Ti GPU, on Debian 9 Stretch
 
 
 ## Installation
