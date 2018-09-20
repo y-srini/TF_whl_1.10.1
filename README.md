@@ -28,6 +28,8 @@ Tensorflow 1.10.1 compiled from source, to support NVidia GeForce 1080Ti GPU, on
 
 ## Bazel Configure file 
 
+
+```
 Please specify the location of python. [Default is /usr/bin/python]: 
 /usr/bin/python3
 
@@ -145,8 +147,10 @@ Would you like to interactively configure ./WORKSPACE for Android builds? [y/N]:
 
 Not configuring the WORKSPACE for Android builds.
 
+
 Preconfigured Bazel build configs.
 
+```
 
 ## Thanks
 
