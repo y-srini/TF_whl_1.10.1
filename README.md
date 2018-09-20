@@ -1,6 +1,6 @@
 # Repository for Tensorflow 1.10.1
 
-Tensorflow 1.10.1 compiled for debian 9
+Tensorflow 1.10.1 compiled from source to only support GPU usage on Debian 9 Stretch
 
 
 ## Installation
